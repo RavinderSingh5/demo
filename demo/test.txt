@@ -1,3 +1,2 @@
-This is my FIRST demo text file for learning git and github(version control)
+This is my FIRST demo text file for learning Git and Github(version control)
 
-Third commit for figuring out whether the files will change in my github remote repository

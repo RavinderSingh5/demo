@@ -1,1 +1,1 @@
-This is my SECOND demo text file for learning git and github(version control)
+This is my SECOND demo text file for learning Git and Github(version control)
